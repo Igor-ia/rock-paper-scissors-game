@@ -176,7 +176,7 @@ export function Picked() {
 
             {status && (
 
-                <div className="flex md:hidden flex-col gap-4 text-center mt-[30%]">
+                <div className="flex md:hidden flex-col gap-4 text-center mt-[25%]">
                     <span className=" font-bold text-5xl text-white">
                         YOU {status}
                     </span>
